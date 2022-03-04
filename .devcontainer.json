@@ -1,0 +1,5 @@
+{
+  "image": "docker.io/ccesitull/ubuntu-ib",
+  "forwardPorts": [3000],
+  "extensions": ["dbaeumer.vscode-eslint"]
+}
